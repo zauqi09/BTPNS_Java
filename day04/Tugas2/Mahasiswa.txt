@@ -1,0 +1,12 @@
+ID : 1301164392
+Nama : Fuad Zauqi Nur
+Jenis Kelamin : Laki-laki
+
+ID : 1301164394
+Nama : Samsul Bahri
+Jenis Kelamin : Laki-laki
+
+ID : 1301164405
+Nama : Siti Fatmala Sari
+Jenis Kelamin : Perempuan
+

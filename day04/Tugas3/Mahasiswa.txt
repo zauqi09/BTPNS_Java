@@ -1,0 +1,8 @@
+ID : 124
+Nama : Abdul
+Jenis Kelamin : Laki-laki
+
+ID : 130
+Nama : Fuad Zauqi Nur
+Jenis Kelamin : Laki-laki
+
