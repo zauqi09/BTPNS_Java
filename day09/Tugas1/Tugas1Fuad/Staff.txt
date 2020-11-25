@@ -1,0 +1,1 @@
+{"staff":[{"tunjangan pulsa":50000,"total gaji":4070000,"nama":"Fuid","tunjangan makan":20000,"id":12,"email":"zauqi09@gmail.com"}]}

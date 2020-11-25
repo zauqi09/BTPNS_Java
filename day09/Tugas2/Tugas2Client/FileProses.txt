@@ -1,0 +1,15 @@
+nama : John
+nilai fisika : 10
+nilai kimia : 8
+nilai biologi : 9
+
+nama : Peter
+nilai fisika : 7
+nilai kimia : 10
+nilai biologi : 8
+
+nama : Steve
+nilai fisika : 6
+nilai kimia : 8
+nilai biologi : 9
+
